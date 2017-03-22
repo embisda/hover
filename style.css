@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	transition: 0.5s;
+}
+
+.container {
+	margin: 1em 2em;
+}
+
+.image {
+	width: 15%;
+	display: block;
+	border: 2px solid transparent;
+	transition: 0.5s;
+}
+
+.image:hover {
+	border: 2px solid black;
+}
+
+.ssilka {
+	margin-top: 0.5em;
+	color: black;
+}
+
+.ssilka:hover {
+	color: #ff5001;
+}
+
+footer {
+	margin-left: 2em;
+	padding-top: 3em;
+}
